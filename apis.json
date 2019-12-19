@@ -1,0 +1,77 @@
+{
+    "name": "Sprint Dev Program",
+    "description": "Shop for cell phones & wireless calling plans from Sprint. Switch to Sprint today and find great deals on unlimited data plans for the whole family.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/658-sprint-dev-program.jpg",
+    "tags": [
+        "geo",
+        "gps",
+        "have api",
+        "isp",
+        "locations",
+        "networks",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sprint-dev-program\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sprint Dev Program",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/658-sprint-dev-program.jpg",
+            "humanURL": "http:\/\/developer.sprint.com\/dynamicContent\/sprintservices\/devtools\/6",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sprint-dev-program-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.sprint.com\/dynamicContent\/sprintservices\/devtools\/6"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sprint-nextel"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sprint-nextel"
+        },
+        {
+            "type": "Email",
+            "url": "16D84824019B@sprint.com"
+        },
+        {
+            "type": "Email",
+            "url": "officeofprivacy@sprint.com"
+        },
+        {
+            "type": "Email",
+            "url": "signalbooster@sprint.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/sprint"
+        },
+        {
+            "type": "Transparency Report",
+            "url": "https:\/\/spideroak.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sprint"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sprintdeveloper"
+        }
+    ]
+}
